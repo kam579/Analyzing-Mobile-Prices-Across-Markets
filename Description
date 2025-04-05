@@ -1,0 +1,6 @@
+This project focuses on the exploratory data analysis of mobile phone prices across various countries. 
+It involves a thorough data cleaning process, including handling missing values and converting data types for consistency. 
+The analysis visualizes price distributions using histograms and boxplots to uncover pricing trends and anomalies. 
+It also compares mobile launch prices across multiple regions such as the USA, China, India, Dubai, and Pakistan, offering insights into global pricing strategies. 
+Additionally, heatmaps and boxplots are used to detect outliers and highlight potential data quality issues, providing a comprehensive overview of the dataset. 
+The project is implemented using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
