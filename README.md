@@ -11,3 +11,15 @@ Tools & Libraries used
 - Python  
 - Pandas and NumPy for data wrangling  
 - Matplotlib and Seaborn for visualizations
+
+Key Visuals
+- Price Distribution (histograms with KDE)
+- **Cross-country price comparison (line plots)
+- Missing Data Heatmap
+- Boxplots for Outliers
+
+Data Preprocessing Steps
+- Converted price columns to numeric (handled currency symbols)
+- Filled missing numeric values with median
+- Filled missing categorical values with mode
+- Visualized missing data using heatmaps
