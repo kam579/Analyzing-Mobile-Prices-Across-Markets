@@ -14,7 +14,7 @@ Tools & Libraries used
 
 Key Visuals
 - Price Distribution (histograms with KDE)
-- **Cross-country price comparison (line plots)
+- Cross-country price comparison (line plots)
 - Missing Data Heatmap
 - Boxplots for Outliers
 
