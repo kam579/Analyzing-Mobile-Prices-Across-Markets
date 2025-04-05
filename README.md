@@ -6,7 +6,7 @@ What This Project Does
 - Visualizes pricing patterns using graphs and charts
 - Spots missing values and outliers in the dataset
 - Gives a snapshot of how mobile pricing differs globally
-- 
+  
 Tools & Libraries used
 - Python  
 - Pandas and NumPy for data wrangling  
